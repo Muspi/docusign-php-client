@@ -72,7 +72,7 @@ class InitialHere implements ArrayAccess
         'optional' => 'string',
         'page_number' => 'string',
         'recipient_id' => 'string',
-        'scale_value' => 'Number',
+        'scale_value' => '\DocuSign\eSign\Model\Number',
         'status' => 'string',
         'tab_id' => 'string',
         'tab_label' => 'string',
